@@ -1,0 +1,2 @@
+# FITAPP
+ProcessRec est une application web/mobile interne au service de la WebFactory qui permet de générer un cahier de process dynamique (Template de process internes), facilitant ainsi le process d’intégration d’un nouveau site. Et cela en passant par plusieurs fonctionnalités. En commençant par l’envoi d’un email à l’utilisateur avec le récapitulatif des étapes, en affichant le statut des différents points de contrôles, avec l’envoi d’un email avec le résumé de la tâche suivante ainsi qu’une une validation step by step.
